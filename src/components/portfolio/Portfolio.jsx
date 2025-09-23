@@ -39,6 +39,7 @@ const items = [
     title: "Flex Guru ",
     img: "/flexguru2.jpg",
     desc: "Developed a personalized fitness and diet planning web application to help users receive tailored workout and nutrition plans.Integrated a voice assistant using the Web Speech API to enable intuitive, hands-free user interactions.	Designed a secure login system, responsive UI, and connected the backend to manage personalized data and content.",
+    link:"https://flexguru.netlify.app/",
   },
 ];
 
