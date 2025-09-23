@@ -143,9 +143,8 @@ const About = () => {
         <img src='/gopifull.jpg' alt="Profile" className="profile-img pl-5" />
         <div className="about-content">
           <p className="about-description">
-            I am an experienced Frontend Developer with over a decade of professional expertise in the field.
-            Throughout my career, I have had the privilege of collaborating with prestigious organizations,
-            contributing to their success and growth.
+            I am an Enthusiastic and detail-oriented Full Stack Developer with a strong foundation in building responsive web . 
+            Proficient in front-end frameworks like React.js and NextJs, and back-end technologies like Java Spring Boot.
           </p>
 
           <div className="about-cards">
