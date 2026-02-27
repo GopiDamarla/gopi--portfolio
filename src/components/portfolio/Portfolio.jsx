@@ -34,8 +34,16 @@ const items = [
     link:"https://lg-gold-works.lovable.app/",
     desc: "Jewelry is a lovable web application where users can explore, purchase, and customize unique jewelry pieces. The platform combines style with technology, offering a seamless shopping experience. Built using modern web technologies, it ensures secure transactions, personalized designs, and a user-friendly interface that enhances both creativity and convenience.",
   },
-  {
+
+    {
     id: 5,
+    title: "E Commerce ",
+    img: "/srilakshmisrinivasa.png",
+    link:"https://srilakshmisrinivasa1grm.lovable.app/",
+    desc: "An AI-powered fancy store web application developed using Lovable AI, designed to showcase fashion and accessories in a modern, elegant, and responsive interface. The platform features category-based product displays, featured collections, and a mobile-friendly layout for seamless browsing across devices. Leveraging AI-assisted development, the project highlights rapid UI creation, clean design structure, and an enhanced digital shopping experience.",
+  },
+  {
+    id: 6,
     title: "Flex Guru ",
     img: "/flexguru2.jpg",
     desc: "Developed a personalized fitness and diet planning web application to help users receive tailored workout and nutrition plans.Integrated a voice assistant using the Web Speech API to enable intuitive, hands-free user interactions.	Designed a secure login system, responsive UI, and connected the backend to manage personalized data and content.",
